@@ -15,7 +15,7 @@ I'm a **Data Analyst** with over **5 years of experience** in **agri-tech**, pas
 - Python (Pandas, Matplotlib, Seaborn, etc.)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedadava&show_icons=true&theme=default)
 
 ## 🗣️ Communication
 I bridge the gap between data and decision-making by presenting technical findings in a clear, compelling way to stakeholders.
